@@ -1,4 +1,7 @@
 # GridList
+![imagen](grid-list1.png)
+![imagen](grid-list2.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
